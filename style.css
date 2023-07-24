@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500&family=Lumanosimo&display=swap');
+
+body {
+    background-color: #ffffff;
+    font-family: 'Jost', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  .navbar-brand {
+    font-family: 'Lumanosimo', cursive;
+    font-weight: 700;
+    font-size: 22px;
+  }
+  .text-navbar {
+    font-weight: 500;
+    font-size: 16px;
+  }
+  .jumbotron {
+    background-color: #333;
+    background-image: url(img/gambar.jpg);
+    background-size: cover;
+    height: 350px;
+    color: #F6F4EB;
+    border-radius: 0%;
+  }
+  .products-container {
+    padding: 20px;
+  }
+  .product-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  .kontak-container {
+    color: #F6F4EB;
+  }
+  .store-container {
+    padding: 20px;
+  }
+  .privacy-container {
+    padding: 20px;
+    color: #F6F4EB;
+  }
+  .team-container {
+    padding: 20px;
+  }
+  .team-member {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  .team-member img {
+    height: 220px;
+  }
+  .footer {
+    background-image: url(img/footer.png);
+    background-size: cover;
+    color: #F6F4EB;
+    text-align: center;
+    padding: 20px;
+  }
+  .social-icons {
+    margin-top: 20px;
+  }
+  .social-icons a {
+    color: #F6F4EB;
+    font-size: 24px;
+    margin: 0 10px;
+  }
+  .social-icons a:hover {
+    color: #F6F4EB;
+  }
